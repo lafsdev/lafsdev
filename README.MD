@@ -3,7 +3,7 @@ import Desenvolvedor from 'LafsDev';
 
 class SobreMim extends Desenvolvedor {
   nome = 'Leandro Alves de Fontes Silva';
-  area = 'Sua área';
+  area = 'Sistemas de Informação';
   trabalho = 'Santa Casa de Misericórdia de Ponta Grossa';
   local = 'Ponta Grossa - PR';
 }
