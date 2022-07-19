@@ -22,7 +22,7 @@ class Skills extends Desenvolvedor {
   <a href="https://www.linkedin.com/in/lafs/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lafs/" /></a>
   
-  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafsdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </a>
+  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafsdev&layout=compact)](https://github.com/lafsdev/github-readme-stats) </a>
 
 <a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=lafsdev&show_icons=true) </a>
 </p>  
