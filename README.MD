@@ -10,8 +10,8 @@ import Desenvolvedor from 'LafsDev';
 class SobreMim extends Desenvolvedor {
   nome = 'Leandro Alves de Fontes Silva';
   area = 'Sistemas de Informação';
-  trabalho = 'Santa Casa de Misericórdia de Ponta Grossa';
-  local = 'Ponta Grossa - PR';
+  trabalho = 'Serasa Experian';
+  local = 'Taió - SC';
 }
 
 class Skills extends Desenvolvedor {
