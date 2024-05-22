@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
   nome = 'Leandro Alves de Fontes Silva';
   area = 'Sistemas de Informação';
   trabalho = 'Serasa Experian';
-  local = 'Taió - SC';
+  local = 'Pomerode - SC';
 }
 
 class Skills extends Desenvolvedor {
